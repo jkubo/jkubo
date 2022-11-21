@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Links:
-
-- <a rel="me" href="https://jaykubo.com/">Site</a>
-- <a rel="me" href="https://infosec.exchange/@jek">Mastodon</a>
+<a rel="me" href="https://infosec.exchange/@jek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109322516458175220?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge"></a>
