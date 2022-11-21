@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://infosec.exchange/@jek" rel="me">@jek@infosec.exchange</a>
+<a rel="me" href="https://infosec.exchange/@jek">Mastodon</a>
 
 <!--
 **jkubo/jkubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
